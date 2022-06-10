@@ -1,9 +1,9 @@
-# test
+# Professional README Generator
   ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[MIT License](https://opensource.org/licenses/MIT)
+[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
 
 
   ## Description
@@ -19,20 +19,20 @@
   * [GitHub Profile](#github-profile)
   * [Email](#email)
   ## Installation
-  test
+  npm i
   ## Usage
-  test
+    Open command window,switch to Udon/Develop/folder, enter "node index.html"to start generator.
   ## Contributing
-  test
+    Node.js,JavaScript
   ## Tests
-  test
+  npm -test
   ## Questions
-  If you have any questions about the repo, open an issue or contact [test](test)
+  If you have any questions about the repo, open an issue or contact [MidnightWXD](yuchencui@hotmail.com)
   ## License
-  [MIT License](https://opensource.org/licenses/MIT)
+  [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
   ## Badges
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## GitHub Profile
-  test
+  MidnightWXD
   ## Email
-  test
+  yuchencui@hotmail.com
